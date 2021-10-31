@@ -20,5 +20,8 @@ Temos duas classes para as barras laterais, uma classe para a bola e uma classe 
 ## Arquivos 
 Os aqrquivos se encontram na pasta `pong`. 
 
+## Observações
+O jogo poderá abrir o executável com algum Player já ganhando. Fizemos o ajuste para ele apenas efetuar a checagem de vitória com o Status do jogo sendo Playing, porém raramente acontece de quando abrimos o executável ele começar com a vitória de algum player. 
+
 ## Link do vídeo demonstrando o jogo
 https://www.youtube.com/watch?v=fawhOGinWDY
