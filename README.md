@@ -19,3 +19,6 @@ Temos duas classes para as barras laterais, uma classe para a bola e uma classe 
 
 ## Arquivos 
 Os aqrquivos se encontram na pasta `pong`. 
+
+## Link do vídeo demonstrando o jogo
+https://www.youtube.com/watch?v=fawhOGinWDY
